@@ -22,6 +22,11 @@ const links = [
     description: "株価予測を行うWebアプリ",
   },
   {
+    name: "Understanding-game-cpu-Web",
+    url: "https://ytaniytani.github.io/Understanding-game-cpu-Web/",
+    description: "ゲームの3DCGにおけるCPUの働き・負荷の原因・対策を、DirectX 12 / Vulkan世代を前提に非エンジニア向けへ解説するWebページ(インタラクティブ図解付き)",
+  },
+  {
     name: "colorOne",
     url: "https://ytaniytani.github.io/colorOne/",
     description: "色に関するツール・コンテンツを扱うWebページ",
