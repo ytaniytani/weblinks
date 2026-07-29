@@ -2,6 +2,11 @@
 // name: サイト名 / url: ページのURL / description: どういうページか
 const links = [
   {
+    name: "Interactive Matrix Lab",
+    url: "https://ytaniytani.github.io/Basic-Introduction-to-Matrices/",
+    description: "行列の基礎、計算手順、2D線形変換をステップバイステップで学べるインタラクティブな数学学習プラットフォーム",
+  },
+  {
     name: "differentialAndintegralWeb",
     url: "https://ytaniytani.github.io/differentialAndintegralWeb/",
     description: "微分・積分に関する計算や可視化を行うWebページ",
