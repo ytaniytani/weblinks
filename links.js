@@ -26,4 +26,34 @@ const links = [
     url: "https://ytaniytani.github.io/colorOne/",
     description: "色に関するツール・コンテンツを扱うWebページ",
   },
+  {
+    name: "OCIO-basics",
+    url: "https://ytaniytani.github.io/OCIO-basics/",
+    description: "OpenColorIO(OCIO)とACESを触って学べる、色のきほんを解説するインタラクティブ学習サイト（全11章＋付録）",
+  },
+  {
+    name: "Raymarching-web",
+    url: "https://ytaniytani.github.io/Raymarching-web/",
+    description: "ゲームのリアルタイムレンダリングで使われるレイマーチングを、数式を避けながら解説するインタラクティブなWebページ",
+  },
+  {
+    name: "Understanding-game-cpu-Web",
+    url: "https://ytaniytani.github.io/Understanding-game-cpu-Web/",
+    description: "ゲームの3DCG描画においてCPUが何をしていて、なぜ重くなり、どう抑えるのかを解説するWebページ",
+  },
+  {
+    name: "3D-rendering-process-Web",
+    url: "https://ytaniytani.github.io/3D-rendering-process-Web/",
+    description: "数式ゼロで、3DCGがなぜ画面に映るのか（描画パイプライン）を全13ページで学べる体験型解説サイト",
+  },
+  {
+    name: "Basic-Introduction-to-Matrices",
+    url: "https://ytaniytani.github.io/Basic-Introduction-to-Matrices/",
+    description: "行列の概念・計算・2D線形変換への応用を、触って学べるインタラクティブ学習サイト",
+  },
+  {
+    name: "Log-basics",
+    url: "https://ytaniytani.github.io/Log-basics/",
+    description: "sRGB・ACES・Linear・LogなどカラーマネジメントのLogを、対数の基礎からHDRまで触って学べる学習サイト（全14章）",
+  },
 ];
