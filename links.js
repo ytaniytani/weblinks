@@ -17,11 +17,6 @@ const links = [
     description: "光の計算式（照明・輝度など）を扱うWebページ",
   },
   {
-    name: "stock-prediction-app",
-    url: "https://ytaniytani.github.io/stock-prediction-app",
-    description: "株価予測を行うWebアプリ",
-  },
-  {
     name: "colorOne",
     url: "https://ytaniytani.github.io/colorOne/",
     description: "色に関するツール・コンテンツを扱うWebページ",
